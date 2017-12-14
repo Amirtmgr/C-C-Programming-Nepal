@@ -7,7 +7,7 @@ int main(void) {
   //height of the triangle
   int height =4;
 
-	//lopping through the row up to size times.
+	//lopping through the row.
   for(i=1;i<=height;i++){
   
   	//printing first tirangle
