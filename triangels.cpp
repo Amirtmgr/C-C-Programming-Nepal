@@ -5,7 +5,7 @@ int main(void) {
   int i,j;
   
   //height of the triangle
-  int height =5;
+  int height =4;
 
 	//lopping through the row up to size times.
   for(i=1;i<=height;i++){
